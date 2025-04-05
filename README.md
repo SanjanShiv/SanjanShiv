@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Image Procesing, MERN, Cloud Computing**
 
-- 📫 How to reach me **sanjanshiva123@gmail.com**
-
 - ⚡ Fun fact **I am interesting**
 
 <h3 align="left">Connect with me:</h3>
